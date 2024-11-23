@@ -33,3 +33,9 @@ Asking and giving for help adalah `common expression untuk menawarkan dan memnin
       - Sorry, I'm busy right now. `Maaf, saya sedang sibuk saat ini.`
       - I'm sorry, I can't help you now. `Saya meminta maaf, saya tidak dapat membantu Anda saat ini.`
 
+Note:
+> Can't = Can not
+
+> I'd = I would atau I had
+
+> I'm = I am 
