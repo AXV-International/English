@@ -57,7 +57,6 @@
   Contoh:
   - If I had taken the job, I would be happier now.
 
-Note :
-> Won't = Will not
-
-> Doesn't = Does not
+## Note 
+- Won't = Will not
+- Doesn't = Does not
