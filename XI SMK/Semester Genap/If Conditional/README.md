@@ -4,7 +4,7 @@
 - If conditional terdapat tipe I, II, III
 ## Structure of If Conditional
 - Zero Conditional<br>
-  `Gunakan untuk fakta umum atau kebenaran`
+  `Digunakan untuk fakta umum atau kebenaran`
 
   Formula :<br>
   $If + Subject + Verb\ (Present\ Simple) + Complement,\ Subject\ + Verb\ (Present\ Simple) + Complement$
