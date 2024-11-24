@@ -1,6 +1,8 @@
 # Asking and Offering Help
-## Explanation
-Asking and giving for help adalah `common expression untuk menawarkan dan memninta bantuan pada orang lain`.
+
+## Explanation of Asking and Offering Help
+- Asking and giving for help adalah `common expression untuk menawarkan dan memninta bantuan pada orang lain`.
+
 ## Example of Expression Asking for Help
 1. Asking for help
    1. Formal
