@@ -1,7 +1,7 @@
 # If Conditional
 ## Definition of If Conditional
 - If conditional merupakan `sebuah kalimat pengandaian`.
-- If conditional terdapat tipe 0, I, II, III
+- If conditional terdapat tipe I, II, III
 ## Structure of If Conditional
 - Zero Conditional<br>
   `Gunakan untuk fakta umum atau kebenaran`
