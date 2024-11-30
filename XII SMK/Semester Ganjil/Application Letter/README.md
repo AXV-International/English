@@ -5,13 +5,19 @@
 ## Structure of Application Letter
 1. Heading
    - Bagian awal surat atau kepala surat
-   - Berisikan informasi kontak pengirim(nama, alamat, nomor telepon, dan e-mail), tanggal menulis surat, dan in
-3. Opening Greeting
-4. Introductory Paragraph
-5. Highlighting Paragraph
-6. Closing Paragraph
-7. Complimentary Close
-8. Signature
+   - Berisikan informasi kontak pengirim(nama, alamat, nomor telepon, dan e-mail), tanggal menulis surat, dan informasi kontak perusahaan(nama dan jabatan recruiter, serta nama        dan alamat perusahaan)
+2. Opening Greeting
+   -
+3. Introductory Paragraph
+
+4. Highlighting Paragraph
+
+5. Closing Paragraph
+   - Paragraf penutup yang berisi ucapan terima kasih kepada perusahan/recruiter atas pertimbangan mereka terhadap lamaran yang dikkirim.
+6. Complimentary Close
+   - 
+7. Signature
+   - Bagian tanda tangan dan juga nama pelamar
 
 ## Language Features of Application Letter
 - Menggunakan bahasa yang formal dan sopan.
