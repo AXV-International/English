@@ -4,7 +4,8 @@
 
 ## Structure of Application Letter
 1. Heading
-   - 
+   - Bagian awal surat atau kepala surat
+   - Berisikan informasi kontak pengirim(nama, alamat, nomor telepon, dan e-mail), tanggal menulis surat, dan in
 3. Opening Greeting
 4. Introductory Paragraph
 5. Highlighting Paragraph
@@ -21,8 +22,13 @@
 
 ## Notes
 1. Simple Past Tense
-   - Verbal
+   - Verbal<br>
      $Subject + V_1(s/es) + Complement$
-   - Nominal
+   - Nominal<br>
      $Subject + Auxiliary\ Verb (to\ be) + Complement$ 
 2. Simple Past Tense
+   - Verbal<br>
+     $Subject + Auxiliary\ Verb (to\ be)[Was/Were] + Complement$
+   - Nominal<br>
+     $Subject + V_2 + Complement$
+   
