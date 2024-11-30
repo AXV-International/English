@@ -4,12 +4,13 @@
 
 ## Structure of Application Letter
 1. Heading
-2. Opening Greeting
-3. Introductory Paragraph
-4. Highlighting Paragraph
-5. Closing Paragraph
-6. Complimentary Close
-7. Signature
+   - 
+3. Opening Greeting
+4. Introductory Paragraph
+5. Highlighting Paragraph
+6. Closing Paragraph
+7. Complimentary Close
+8. Signature
 
 ## Language Features of Application Letter
 - Menggunakan bahasa yang formal dan sopan.
@@ -17,3 +18,11 @@
 - Menggunakan `simple past tense` pada bagian surat yang menunjukkan prestasi yang pernah didapatkan atau pengalaman kerja di masa lalu.
 
 ## Example of Application Letter
+
+## Notes
+1. Simple Past Tense
+   - Verbal
+     $Subject + V_1(s/es) + Complement$
+   - Nominal
+     $Subject + Auxiliary\ Verb (to\ be) + Complement$ 
+2. Simple Past Tense
