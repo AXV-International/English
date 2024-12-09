@@ -1,31 +1,67 @@
 # Application Letter
 ## Explanation of Application Letter
-- Application letter atau disebut juga sebagai `job application letter` adalah `surat yang berisikan penjelasan menegenai pengalaman serta kemampuan terkait dengan kemampuan yang diperlukan pada perusahaan yang ingin dilamar`.
+- Application letter or job application letter is `A letter that you write to a company when you are applying for a job`.
+
+## Sosial Function/Purpose of Application Letter
+- To Apply a job to a person or company writtenly, completed with structure and formed in official style
+
 
 ## Structure of Application Letter
-1. Heading
-   - Bagian awal surat atau kepala surat.
-   - Berisikan informasi kontak pengirim(nama, alamat, nomor telepon, dan e-mail), tanggal menulis surat, dan informasi kontak perusahaan(nama dan jabatan recruiter, serta nama        dan alamat perusahaan).
-2. Opening Greeting
-   - bagian salam pembuka dengan bahasa formal yang diawali kata `Dear` kemudian diikuti nama recruiter dan tanda koma.
-3. Introductory Paragraph
-   - Paragraf pembuka yang berisi penjelasan alasan ketertarikan melamar pada posisi tersebut serta pekerjaan yang ingin dilamar.
-4. Highlighting Paragraph
-   - Paragraf inti yang berisikan kualifikasi yang dieprlukan dan kemampuan khusus yang berhubungan dengan permintaan pekerjaan yang ingin dilamar
-5. Closing Paragraph
-   - Paragraf penutup yang berisi ucapan terima kasih kepada perusahan/recruiter atas pertimbangan mereka terhadap lamaran yang dikkirim.
-6. Complimentary Close
-   - Bagian salam penutup yang dapat menjelaskan juga bahwa pelamar berharap agar dapat berdiskusi lebih lanjut mengenai pekerjaan yang dilamar melalui interview dengan recruiter.
-7. Signature
-   - Bagian tanda tangan dan juga nama pelamar.
+1. Sender
+   - Placed on top left.
+   - Insert full name, address, and date.
+2. Receiver
+   - Placed on second top left.
+   - Insert full name, address, and company
+3. Salutation
+   - Greeting to receiver/company
+4. Content
+   - Include purpose of writing application letter, source of knowing the employment, skill that the sender has, experiences, and the reason of applying a job.
+5. Closure
+   - Include sender’s contact and the time that the sender can be reached.
+6. Signature
+   - The sender’s signature and full name under it.
 
 ## Language Features of Application Letter
-- Menggunakan bahasa yang formal dan sopan.
-- Menggukan `simple present tense` pada bagian surat yang menunjukkan keahlian yang dimiliki atau pekerjaan yang dilakukan sekarang.
-- Menggunakan `simple past tense` pada bagian surat yang menunjukkan prestasi yang pernah didapatkan atau pengalaman kerja di masa lalu.
+- Use of personal pronoun (I, My, your)
+- Use of simple present(Apply, Make, Provide)
+- Use of simple past to describe experience
+- Use of formal language or not slang (I am writing to apply ...,I wish to ..., I am enclosing ..., I am currently ...)
+- Use of special expression(Dear sir, Sincerely, Best regards)
+- No temporal sequence
 
 ## Example of Application Letter
+```
+Lilis Handayani		 
+Jl. A. Yani 389
+Surabaya, 65151
 
+April 19, 2009
+
+Mr Frank Peterson, Personnel Manager 		
+Jeans and Co.
+Jl. Raya Pandaan 186
+Pandaan Pasuruan, Jawa Timur, 98502
+
+Dear Mr. Peterson,
+I am writing to you in response to your advertisement for a local branch manager, which
+appeared in the Jawa Pos on Sunday, June 15. As you can see from my enclosed resume, my
+experience and qualifications match this position's requirements.
+
+My current position, managing the local branch of a national shoe retailer, has provided the
+opportunity to work under a high-pressure, team environment, where it is essential to be able
+to work closely with my colleagues in order to meet sales deadlines. In addition to my
+responsibilities as manager, I also developed time management tools for staff using Access
+and Excel from Microsoft's Office Suite.
+
+Thank you for your time and consideration. I look forward to the opportunity to personally
+discuss why I am particularly suited for this position. Please call me after 4.00 p.m. to suggest
+a time we may meet. I can be reached via telephone number 031-858564 or by email at lilish@yahoo.com.
+
+Sincerely, 
+
+Lilis Handayani  
+```
 
 ## Notes
 1. Simple Past Tense
