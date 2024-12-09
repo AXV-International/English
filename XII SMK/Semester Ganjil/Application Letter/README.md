@@ -71,7 +71,7 @@ Lilis Handayani
      $Subject + Auxiliary\ Verb (to\ be) + Complement$ 
 2. Simple Past Tense
    - Verbal<br>
-     $Subject + Auxiliary\ Verb (to\ be)[Was/Were] + Complement$
-   - Nominal<br>
      $Subject + V_2 + Complement$
+   - Nominal<br>
+     $Subject + Auxiliary\ Verb (to\ be)[Was/Were] + Complement$
    
