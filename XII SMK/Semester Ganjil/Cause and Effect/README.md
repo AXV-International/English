@@ -50,6 +50,21 @@
 
 ## Example of Cause and Effect
 ### Example in a sentence
+1. Jika diikuti oleh noun atau frasa noun
+   - Due to = Due to heavy rain (cause), we can’t go to concert (effect).
+   -  Because of = He got good grade (effect) because of his study habits (cause).
+   -  Owing to = I didn't attend the practice (effect) owing to the headache (cause).
+   -  As a consequence of = He can’t take the exam (effect) as a consequence of cheating (cause)
+   -  As a result of = As a result of illegal hunting (cause), the number of wild animals began to decrease (effect).
+   -  Thanks to = Thanks to your help (cause), we were successful (effect). 
+
+2. Jika diikuti oleh subject + verb atau frasa verb
+   - Because = Because he was sick (cause), he did not cook well (effect).
+   - Since = The concert was canceled (effect) since it’s raining (cause)
+   - As = As it is raining again (cause), we will have to stay at home (effect).
+   - For = I decided to call it a day (cause) – for I was feeling tired (effect). 
+
+============================================================================================
 1. I was lost so I opened Google Maps
    - Cause = I was lost
    - Effect = I opened Google Maps
@@ -74,6 +89,14 @@
    - Cause = the ocean is extremely polluted.
    - Effect = coral reefs die.
    - Conjunction = when
+
+### Example in a dialogue
+```
+Laura : Hi, Hosh! What are you doing?
+Josh  : Hi, Laura! I am listening to a podcast abou global warming.
+Laura : That is interesting. What did you learn from the podcast?
+Josh  : What I learned is that global warming is getting worse because of the increasing consumption of the society.
+```
 
 ### Example in a text
 ```
