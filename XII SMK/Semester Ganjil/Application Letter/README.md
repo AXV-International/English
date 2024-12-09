@@ -64,7 +64,7 @@ Lilis Handayani
 ```
 
 ## Notes
-1. Simple Past Tense
+1. Simple Present Tense
    - Verbal<br>
      $Subject + V_1(s/es) + Complement$
    - Nominal<br>
