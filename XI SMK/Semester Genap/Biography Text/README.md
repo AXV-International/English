@@ -23,4 +23,7 @@
 - Temporal sequence and temporal conjunction. `Menggunakan urutan waktu dan konjungsi temporal.`
 - Focus on spesific person. `Berfokus pada seseorang.`
 - Use of action verbs. `Menggunakan kata kerja aksi`
+## Kind of Biography Text
+1. Short biography
+2. Long biography
   
