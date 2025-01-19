@@ -18,3 +18,30 @@
 3. Menggunakan present tense
    - Biasanya menggunakan `simple present tense` karena informasi yang disampaikan masih baru, bersifat penting (urgent), dan untuk menggambarkan kejadian yang masih berlangsung hingga saat ini.
    - Dapat juga menggunakan `simple past tense` karena berita baru ditulis setelah peristiwa sudah terjadi.
+## Example of News Item Text
+```
+                                    Record Breaking Heatwave Hits Western United States
+-----------------------------------------------------------------------------------------------------------------------------------
+   The western US is [grappling -> (Action verbs)] with an unprecendented heatwave,
+with temperatures soaring to all-time highs in several states, prompting authorities
+to issue extreme heat warnings and implement emergency measures.
+
+   The scorching temperatures, reaching up to 115°F (46°C), have been attributed to a
+high-pressure system lingering over the region. This weather phenomenon has affected
+states including California, Arizona, and Nevada.
+
+   Dr. Jane Reynolds, a chronologist from the National Weather Service, [commented ->
+(Saying verbs)], "This heatwave is the result of a combination of factors, including
+atmospheric conditions and climate change on weather extremes."
+```
+## Notes
+1. Simple Present Tense
+   - Verbal<br>
+     $Subject + V_1(s/es) + Complement$
+   - Nominal<br>
+     $Subject + Auxiliary\ Verb (to\ be) + Complement$ 
+2. Simple Past Tense
+   - Verbal<br>
+     $Subject + V_2 + Complement$
+   - Nominal<br>
+     $Subject + Auxiliary\ Verb (to\ be)[Was/Were] + Complement$
