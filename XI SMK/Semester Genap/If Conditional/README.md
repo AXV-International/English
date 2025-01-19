@@ -43,7 +43,7 @@
   `Digunakan untuk kondisi yang tidak nyata di masa lalu`
 
   Formula :<br>
-  $If + Subject + Had + Verb\ (Past\ Participle),\ Subject + Would\ Have + Verb\ (Past\ Participle)
+  $If + Subject + Had + Verb\ (Past\ Participle),\ Subject + Would\ Have + Verb\ (Past\ Participle)$
 
   Contoh:
   - If I had studied harder, I would have passed the exam.
