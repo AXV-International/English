@@ -74,4 +74,3 @@ Lilis Handayani
      $Subject + V_2 + Complement$
    - Nominal<br>
      $Subject + Auxiliary\ Verb (to\ be)[Was/Were] + Complement$
-   
